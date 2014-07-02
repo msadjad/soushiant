@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fcc71414-c6df-4342-be56-6aea5e1533b1" name="Default" comment="" />
+    <list default="true" id="fcc71414-c6df-4342-be56-6aea5e1533b1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/12394.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/162106_6f7be.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/Home-automation-Kitchen-TV.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/Livingroomautomation.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/UPVC-Double-Glazed-Windows.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/hh.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/pic11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/pic22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/pic33.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/thumb-3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="soushiant.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,7 +39,29 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="108" column="30" selection-start="4033" selection-end="4033" vertical-scroll-proportion="-4.2580647" vertical-offset="2244" max-vertical-offset="3872">
+            <state line="1" column="0" selection-start="5" selection-end="40" vertical-scroll-proportion="-0.39285713" vertical-offset="0" max-vertical-offset="3850">
+              <folding>
+                <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#p#0;n#div#1;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/product.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="2574">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="35" selection-start="40" selection-end="40" vertical-scroll-proportion="-0.7096774" vertical-offset="0" max-vertical-offset="2090">
               <folding />
             </state>
           </provider>
@@ -35,8 +70,10 @@
       <file leaf-file-name="contact.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="45" selection-start="1411" selection-end="1411" vertical-scroll-proportion="0.7065637" vertical-offset="448" max-vertical-offset="2684">
-              <folding />
+            <state line="13" column="21" selection-start="486" selection-end="486" vertical-scroll-proportion="0.55212355" vertical-offset="0" max-vertical-offset="2200">
+              <folding>
+                <element signature="n#style#0;n#a#0;n#small#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -48,12 +85,21 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/web/index.html" />
-        <option value="$PROJECT_DIR$/web/contact.html" />
         <option value="$PROJECT_DIR$/web/maptest.html" />
+        <option value="$PROJECT_DIR$/web/index.html" />
+        <option value="$PROJECT_DIR$/web/about.html" />
+        <option value="$PROJECT_DIR$/web/contact.html" />
       </list>
     </option>
   </component>
@@ -64,7 +110,7 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -168,18 +214,65 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="fcc71414-c6df-4342-be56-6aea5e1533b1" name="Default" comment="" />
       <created>1403337932762</created>
       <updated>1403337932762</updated>
     </task>
+    <task id="LOCAL-00001" summary="Conctact us&#10;&#10;the contact us for the web is now ready but the address for the sending email&#10; must be corrected too">
+      <created>1404213438013</created>
+      <updated>1404213438013</updated>
+    </task>
+    <task id="LOCAL-00002" summary="About us&#10;&#10;the about us is now ready and it contains some parts which are the translation of&#10; the persian about us">
+      <created>1404262231833</created>
+      <updated>1404262231833</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Contact us&#10;&#10;A minor bug in the title of the website is now solved">
+      <created>1404262309689</created>
+      <updated>1404262309689</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Pictures added&#10;&#10;Some pictures are added to the project">
+      <created>1404262426705</created>
+      <updated>1404262426705</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Home Page&#10;&#10;The home page provides information on what we are and what we do&#10;this page is complete">
+      <created>1404265911871</created>
+      <updated>1404265911871</updated>
+    </task>
+    <task id="LOCAL-00006" summary="contact us&#10;&#10;The text of the header comment has changed">
+      <created>1404265957497</created>
+      <updated>1404265957497</updated>
+    </task>
+    <task id="LOCAL-00007" summary="about us&#10;&#10;The text of the header comment has changed">
+      <created>1404265978555</created>
+      <updated>1404265978555</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -204,9 +297,18 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="false" />
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="Conctact us&#10;&#10;the contact us for the web is now ready but the address for the sending email&#10; must be corrected too" />
+    <MESSAGE value="About us&#10;&#10;the about us is now ready and it contains some parts which are the translation of&#10; the persian about us" />
+    <MESSAGE value="Contact us&#10;&#10;A minor bug in the title of the website is now solved" />
+    <MESSAGE value="Pictures added&#10;&#10;Some pictures are added to the project" />
+    <MESSAGE value="Home Page&#10;&#10;The home page provides information on what we are and what we do&#10;this page is complete" />
+    <MESSAGE value="contact us&#10;&#10;The text of the header comment has changed" />
+    <MESSAGE value="about us&#10;&#10;The text of the header comment has changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="about us&#10;&#10;The text of the header comment has changed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -215,35 +317,63 @@
     <entry file="file://$PROJECT_DIR$/web/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="69" column="54" selection-start="2506" selection-end="2506" vertical-scroll-proportion="0.0" vertical-offset="2244" max-vertical-offset="3872">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#p#0;n#div#1;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="69" column="54" selection-start="2506" selection-end="2506" vertical-scroll-proportion="0.0" vertical-offset="2244" max-vertical-offset="3872">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#p#0;n#div#1;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="485" column="44" selection-start="9547" selection-end="9547" vertical-scroll-proportion="0.47723132" vertical-offset="10408" max-vertical-offset="13464">
+        <state line="398" column="23" selection-start="7721" selection-end="7725" vertical-scroll-proportion="0.33206108" vertical-offset="8582" max-vertical-offset="13464">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/product.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2574">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="108" column="30" selection-start="4033" selection-end="4033" vertical-scroll-proportion="-4.2580647" vertical-offset="2244" max-vertical-offset="3872">
+        <state line="1" column="0" selection-start="5" selection-end="40" vertical-scroll-proportion="-0.39285713" vertical-offset="0" max-vertical-offset="3850">
+          <folding>
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#p#0;n#div#1;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="35" selection-start="40" selection-end="40" vertical-scroll-proportion="-0.7096774" vertical-offset="0" max-vertical-offset="2090">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="45" selection-start="1411" selection-end="1411" vertical-scroll-proportion="0.7065637" vertical-offset="448" max-vertical-offset="2684">
-          <folding />
+        <state line="13" column="21" selection-start="486" selection-end="486" vertical-scroll-proportion="0.55212355" vertical-offset="0" max-vertical-offset="2200">
+          <folding>
+            <element signature="n#style#0;n#a#0;n#small#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
